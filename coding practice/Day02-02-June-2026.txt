@@ -1,0 +1,82 @@
+DevOps_Hands_On_Practice_L2 / week1 / Day02
+
+Day 02 - Services & Tags
+
+  Ansible - Install & Enable Nginx
+- name: Install nginx on Pathnex 
+  hosts: all
+  become: yes
+
+  task: 
+    - name: Install nginx
+      yum:
+        name: nginx
+	state: present
+
+    -name: Enable nginx
+     service:
+        name: nginx
+	state: started
+	enabled: yes
+
+
+
+   Terraform - EC2 with Tags(r5.2xlarge)
+provider :aws" {
+   region = "us-east-1"
+}
+
+resource "aws_instace" "PathnexEC2" {
+ ami              = "ami--abcd1234abcd1234"
+ instance_type    = "r5.2xlarge"
+
+
+ tags = {
+   Name            = "Pathnex-Server"
+   Environment     = "Training"
+   Owner           = "PathnexStudent"
+  }
+}
+
+
+
+# Kubenetes - Deployment with 2 Replicas
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: pathnex-deployment
+spec:
+  replicas: 2
+  selector:
+     matchLables:
+       app: pathnex-app
+  template:
+     metadata:
+        lables:
+	  app: pathnex-app
+	spec:
+	  containers:
+	     - name: app
+	       image: nginx
+	       ports:
+	          - containerPort: 80
+
+
+
+ Shell Script - Disk usage
+#!/bin/bash
+df -h
+
+
+ Docker
+# Docker Images & Containers
+docker pull ubuntu
+docker images
+docker ps -a
+
+
+# Docker File
+From ubuntu: 22.o4
+RUN apt update
+CMD ["echo", "Hello Pathnex"]
+
