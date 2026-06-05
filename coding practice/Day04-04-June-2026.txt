@@ -1,6 +1,6 @@
 Day 04 - Basic CI/CD Concepts with Jenkins & GitLab
 
-Jenkinsfile - Basic CI Pipeline
+<> Jenkinsfile - Basic CI Pipeline
 pipeline {
     agent any
     stages {
