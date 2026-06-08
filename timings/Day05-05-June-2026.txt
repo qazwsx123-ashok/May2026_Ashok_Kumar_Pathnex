@@ -1,0 +1,18 @@
+# What i did today
+
+2 hr Understanding the flow of git because i was confused in requesting pr so i      watched on youtube video for that.
+4 hr Kubernetes try to learn K8s basics and interwiew question but i think i hav     not covered all so i will continue for next day
+
+2 hr coding practice
+
+2 hr hr on AWS instances
+
+2 hr Evening session
+
+
+# Tomorrow Plan
+2 hr coding practice 
+1 hr confusion clearing 
+5 hr K8s basics and senerio based question
+2 hr Evening session
+2 hr if time left then speaking practice
