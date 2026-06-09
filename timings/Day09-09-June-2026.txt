@@ -1,0 +1,15 @@
+# Todays Plan
+2 hr coding practice
+3 hr kubernetes
+3 hr ArgoCD
+3 hr AWS
+
+
+
+# Tommrow Plan
+2 hr coding practice
+3 hr kubernetes
+3 hr Terrform
+3 hr AWS
+
+
