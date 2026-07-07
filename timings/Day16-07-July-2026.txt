@@ -1,0 +1,14 @@
+# What i did today
+3 hr Helm you tube video watched
+3 hr Helm interview question answer learnig
+3 hr Doing Practice of K8s 
+2 hr coding practice
+
+
+# Tommorow Plan
+3 hr Kafka youtube video watching
+3 hr practice with kafka
+2 hr remembering og question answer
+3 hr ArgoCD video watching
+2 hr coding practice
+
