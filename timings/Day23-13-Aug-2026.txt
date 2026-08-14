@@ -1,0 +1,13 @@
+## What i did today
+3 hr Shell Scripting with video
+3 hr AWS revision
+3 hr terraform video
+2 hr coding
+
+
+
+## Tomorrow plan
+3 hr Aws revision
+3 hr Kubernetes revision
+3 hr Docker
+2 hr codding practice
