@@ -1,0 +1,12 @@
+ ## What i did today
+ 8 hr revision of AWS , Terraform and Linux
+ 3 hr youtube video
+ 1 hr coding practice
+
+
+
+ ## Tommorow Plan 
+ 3 hr terraform practice from youtube
+ 3 hr helm practice from youtube
+ 4 hr rvision
+ 1 hr coding practice
