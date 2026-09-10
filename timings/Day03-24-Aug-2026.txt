@@ -1,0 +1,13 @@
+## What i Did Today
+4 hr youtube video on Terraform
+4 hr youtube video on CI/CD
+1 Hr Coding Practice
+2 hr revision 
+
+
+## Tommorw plans
+4 hr video on Monitoring tools 
+3 hr Kubernetes
+4 hr Revision
+1 hr Coding practice
+
